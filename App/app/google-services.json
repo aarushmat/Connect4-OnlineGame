@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "380628291637",
+    "project_id": "project2-96152",
+    "storage_bucket": "project2-96152.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:380628291637:android:73a7cd90fa84bd6049e17c",
+        "android_client_info": {
+          "package_name": "edu.msu.moranti1.project1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "380628291637-707eb99eoldthe1i0u9gi57qkijcrmhj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMvpd8yfkEB1U4h5cjwGTNKQeGI48YSr0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "380628291637-707eb99eoldthe1i0u9gi57qkijcrmhj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
